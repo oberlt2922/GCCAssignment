@@ -1,0 +1,15 @@
+C:\Users\oberl\Documents\GitHub\GDCAssignment\bin\Debug\net6.0\GDCAssignment.exe
+C:\Users\oberl\Documents\GitHub\GDCAssignment\bin\Debug\net6.0\GDCAssignment.deps.json
+C:\Users\oberl\Documents\GitHub\GDCAssignment\bin\Debug\net6.0\GDCAssignment.runtimeconfig.json
+C:\Users\oberl\Documents\GitHub\GDCAssignment\bin\Debug\net6.0\GDCAssignment.dll
+C:\Users\oberl\Documents\GitHub\GDCAssignment\bin\Debug\net6.0\ref\GDCAssignment.dll
+C:\Users\oberl\Documents\GitHub\GDCAssignment\bin\Debug\net6.0\GDCAssignment.pdb
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\GDCAssignment.csproj.AssemblyReference.cache
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\GDCAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\GDCAssignment.AssemblyInfoInputs.cache
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\GDCAssignment.AssemblyInfo.cs
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\GDCAssignment.csproj.CoreCompileInputs.cache
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\GDCAssignment.dll
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\ref\GDCAssignment.dll
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\GDCAssignment.pdb
+C:\Users\oberl\Documents\GitHub\GDCAssignment\obj\Debug\net6.0\GDCAssignment.genruntimeconfig.cache
