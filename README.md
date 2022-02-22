@@ -1,4 +1,4 @@
-# GCCAssignment
+# GDCAssignment
 
 Technical Assignment
 1. Develop a solution based upon the requirements and details below.
